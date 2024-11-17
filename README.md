@@ -12,8 +12,7 @@ npm install
 
 ### Set Up the Database:
 
-Update the src/config/database.ts file with your SQL Server credentials.
-Update the config/config.json
+Update the src/config/database.ts and config/config.json file with your SQL Server credentials.
 
 ### Create a .env File:
 
